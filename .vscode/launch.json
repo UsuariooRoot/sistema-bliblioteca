@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DawiiT6Bn2020201Application<DAWII_T6BN_20202_01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.colegio.DawiiT6Bn2020201Application",
+            "projectName": "DAWII_T6BN_20202_01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
